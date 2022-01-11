@@ -19,5 +19,6 @@ if (!isset($_SERVER['PHP_AUTH_USER'])) {
 ?>
 <body>
     <h1>prueba autenticación HTTP básica</h1>
+    <p>Estos es una prueba</p>
 </body>
 </html>
